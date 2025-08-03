@@ -29,13 +29,6 @@ This project was developed as part of the **AICTE Edunet Foundation – IBM Clou
 
 ---
 
-
-## 🔗 Live Link or Deployment Info
-
-https://dataplatform.cloud.ibm.com/ml-runtime/deployments/195b93a4-550d-4ffe-b460-286ab4633dff/chat?space_id=618f47a9-db88-4320-87dd-26074e158964&context=wx&flush=true
-
----
-
 ## 📜 License
 
 This project is created for academic and internship learning purposes under the AICTE Edunet – IBM Cloud program.
